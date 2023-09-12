@@ -70,6 +70,6 @@ def construir_modelo(input_shape, num_classes=8, kernel_size=(3, 3, 3), pool_siz
 
 
 # Exemplo de uso com formato de entrada e número de classes
-input_shape = (10, 320, 320, 3)  # Substitua pelo formato de entrada desejado
+input_shape = (10, 320, 320, 3) 
 modelo = construir_modelo(input_shape)
 modelo.summary()

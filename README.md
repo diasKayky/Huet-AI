@@ -8,7 +8,7 @@ https://github.com/diasKayky/sent-ai-core/blob/main/LICENSE)
 
 ## 🚧 Roadmap do Projeto
 
-1. Coleta dos vídeos de Libras de oito sinais
+1. Coleta dos vídeos de Libras de 12 sinais
 2. Preprocessamento dos dados que serão utilizados pelos modelos
 3. Construção das arquiteturas do modelo 3D CNN com Mecanismo de Atenção Visuo-Temporal
 4. Treinamento e avaliação do modelo
